@@ -1,7 +1,7 @@
 // Change these to change the physics of our world.
 let bounce = 0.7;
 let gravity = 0.001;
-let ballSize = 15;
+let ballSize = 150;
 
 // The framework will draw the background for us. It also provides three
 // functions we can use:
