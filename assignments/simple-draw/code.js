@@ -39,10 +39,10 @@ drawLine(0, 0, width, height/10, 'red')
 drawLine(0, 0, width, height, 'red')
 drawLine(0, 0, width, height/100, 'red')
 
-drawCircle(width/2, height/2, 100, 'blue');
+//drawCircle(width/2, height/2, 100, 'blue');
 
 //drawRect(50, 50, 60, 40, 'black');
 
-drawFilledCircle(width - 250, height - 300, 99, 'purple');
+//drawFilledCircle(width - 250, height - 300, 99, 'purple');
 
 //drawFilledRect(5, height - 20, 45, 150, 'green');
