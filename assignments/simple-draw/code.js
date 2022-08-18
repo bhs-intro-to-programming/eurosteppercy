@@ -36,8 +36,8 @@
  */
 
 drawLine(0, 0, width/150, height, 'red')
-drawLine(0, 0, width, height, 'red')
-drawLine(-100, 0, width, height/150, 'red')
+drawLine(0, 0, width, height, 'pink')
+drawLine(-100, 0, width, height/150, 'green')
 
 //drawCircle(width/2, height/2, 100, 'blue');
 
