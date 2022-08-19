@@ -39,7 +39,7 @@
 //drawLine(0, 0, width, height, 'pink')
 //drawLine(0, 600, width, height/200, 'green')
 
-drawCircle(width/2, height/2, 110, 'blue');
+drawCircle(width/2, height/2, 1100, 'blue');
 
 //drawRect(50, 50, 60, 40, 'black');
 
