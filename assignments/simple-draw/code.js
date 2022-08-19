@@ -37,7 +37,7 @@
 
 drawLine(0, 0, width/150, height, 'red')
 drawLine(0, 0, width, height, 'pink')
-drawLine(0, 10, width, height/200, 'green')
+drawLine(0, 600, width, height/200, 'green')
 
 drawCircle(width/2, height/2, 110, 'blue');
 
